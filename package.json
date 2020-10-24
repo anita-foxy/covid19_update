@@ -1,0 +1,26 @@
+{
+  "name": "covid19_update",
+  "version": "1.0.0",
+  "description": "this project crawl data form www.worldometers.info",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anita-foxy/covid19_update.git"
+  },
+  "keywords": [
+    "covid19"
+  ],
+  "author": "anita-foxy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anita-foxy/covid19_update/issues"
+  },
+  "homepage": "https://github.com/anita-foxy/covid19_update#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
